@@ -5,3 +5,4 @@
     2. [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
 2. [What is a Siamese Neural Netowrk?](https://towardsdatascience.com/what-is-a-siamese-neural-network-b0dbeb1c6db7)
 3. [Residual Neural Network - ResNet](https://iq.opengenus.org/residual-neural-networks/)
+4. [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation)
