@@ -5,3 +5,4 @@
 5. [Data Engineering in Rust](https://www.statcan.gc.ca/en/data-science/network/engineering-rust)
 6. [The Scientific Paper Is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 7. [colah's blog](http://colah.github.io/)
+8. [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
