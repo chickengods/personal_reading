@@ -6,3 +6,4 @@
 6. [The Scientific Paper Is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 7. [colah's blog](http://colah.github.io/)
 8. [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
+9. [The GTP-3 Architectrure, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
