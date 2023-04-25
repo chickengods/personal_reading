@@ -10,3 +10,5 @@
 5. [ResNets — Residual Blocks & Deep Residual Learning](https://towardsdatascience.com/resnets-residual-blocks-deep-residual-learning-a231a0ee73d2)
 6. [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 7. [How to run your own LLM GPT](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
+8. [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+9. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?ref=txt.cohere.com)
